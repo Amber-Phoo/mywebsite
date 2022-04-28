@@ -1,0 +1,19 @@
+.thumbnail{
+    width: 50vh;
+    margin: auto;
+    border-radius: 10px;
+}
+
+h1{
+    font-family: monospace;
+    font-size: 5vh;
+    font-weight: bold;
+    color: rgb(162, 197, 121);
+}
+
+.center-content{
+    text-align: center;
+    flex-direction: column;
+}
+
+body{background-color: rgb(24, 133, 141);}
